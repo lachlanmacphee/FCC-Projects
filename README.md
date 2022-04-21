@@ -1,2 +1,2 @@
 # FCC-Projects
-This is a collection of links to my FreeCodeCamp projects
+This is a collection of my FreeCodeCamp projects
