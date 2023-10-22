@@ -5,14 +5,13 @@ __Responsive Web Design__
 https://www.freecodecamp.org/certification/lachlanmacphee/responsive-web-design
 
 __JavaScript Algorithms and Data Structures__
-Unfortunately these did not save as they were written in the FCC editor.
 https://www.freecodecamp.org/certification/lachlanmacphee/javascript-algorithms-and-data-structures
 
 __Front End Development Libraries__
 https://www.freecodecamp.org/certification/lachlanmacphee/front-end-development-libraries
 
 __Data Visualisation__
-Currently in progress
+https://www.freecodecamp.org/certification/lachlanmacphee/data-visualization
 
 __Back End Development and APIs__
 Planned
